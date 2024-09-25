@@ -1,5 +1,5 @@
 # PyGWalker
-**INTRODUCTION**
+**PENDAHULUAN**
 
 PyGWalker dapat menyederhanakan analisis data Jupyter Notebook dan alur kerja visualisasi data Anda, dengan mengubah kerangka data pandas Anda menjadi antarmuka pengguna interaktif untuk eksplorasi visual.
 
