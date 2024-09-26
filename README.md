@@ -2,8 +2,7 @@
 Nama : Faiz Bisma Alfarid
 
 NIM : 2407903
-
-Kelas : MKB 1C
+Kelas : MKB 1A
 
 **PENDAHULUAN**
 
